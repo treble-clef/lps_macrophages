@@ -1,7 +1,4 @@
 library(GEOquery)
-#library(BiocInstaller)
-#library(Biobase)
-#library(statmod)
 
 ###############################################################
 ## Acquire the Microarray Data for Strains AKR/J and C3H/HeJ ##
