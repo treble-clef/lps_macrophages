@@ -1,1 +1,4 @@
 # lps_macrophages
+Analyzing Affymetrix microarray data using R.
+
+The "m1.R" file analyzes M1 macrophage marker expression from two different strains of mice (AKR/J and C3H/HeJ) following LPS (lipopolysaccharide) treatment. The source of this microarray data is the Gene Expression Omnibus (GEO) repository (https://www.ncbi.nlm.nih.gov/geo/), using the accession numbers provided in the .R file. The experimental design and dataset are described there.
